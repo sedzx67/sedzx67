@@ -1,34 +1,28 @@
-
-<!--
-  GitHub Profile README
-  Name: Muhammad Aqil Alhay
-  Theme: Midnight Blue / Cyan
-  Replace all sedzx67 and placeholder values.
--->
-
 <div align="center">
 
-<!-- Profile Photo: Upload your photo to this repository as profile-photo.jpg -->
+<img src="./profile-photo.jpg" width="150" alt="Muhammad Akiq Al-Hai" />
 
-<img src="./IMG-20261123-WA0012.jpg" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Aqil Alhay"/>
-
-# Hi, I'm Muhammad Aqil Alhay 👋
+# Muhammad Akiq Al-Hai
 
 ### Cyber Security Student | Aspiring Cyber Security Professional
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Cyber+Security+Enthusiast;Exploring+the+World+of+Technology;Learning+and+Building+Every+Day;Future+Cyber+Security+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Learning+C+and+C%2B%2B;Exploring+Ethical+Hacking;Building+My+Technical+Foundations" alt="Typing SVG" />
 
-<br/>
+<br />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sedzx67">
+  <img src="https://img.shields.io/badge/GitHub-sedzx67-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Field-Cyber%20Security-0078D4?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Student-00C853?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/aqil-alhay-ba51b5383/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:qilozsem@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<br/><br/>
+<br /><br />
 
-*"Learning today, securing tomorrow."*
+*"Learning today. Building skills for a more secure tomorrow."*
 
 </div>
 
@@ -36,18 +30,15 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Muhammad Aqil Alhay**, a Cyber Security student with an interest in technology, computing, and the evolving world of digital security.
+Hi! I'm **Muhammad Akiq Al-Hai**, a Cyber Security student at **Universiti Teknologi Malaysia (UTM), Skudai**.
 
-I am currently developing my understanding of programming and exploring the foundations of computer science and cybersecurity.
+I'm building my technical foundations through programming and exploring the field of cybersecurity. I'm especially interested in understanding how systems can be protected, how vulnerabilities are identified, and how security knowledge can be applied responsibly.
 
-I believe in continuous learning, practical experience, and improving my technical knowledge through academic projects and hands-on exploration.
-
-- 🎓 Cyber Security student.
-- 💻 Currently learning C and C++ programming fundamentals.
-- 🔐 Interested in exploring cybersecurity concepts.
-- 🧠 Interested in problem-solving and analytical thinking.
-- 📚 Exploring academic research and technology-based learning.
-- 🚀 Working towards becoming a skilled cybersecurity professional.
+- 🎓 **Institution:** Universiti Teknologi Malaysia (UTM), Skudai
+- 🔐 **Field:** Cyber Security
+- 💻 **Currently learning:** C and C++
+- 🎯 **Career interests:** Cyber Security, Ethical Hacking, and Penetration Testing
+- 🌱 **Focus:** Continuous learning, practical skills, and problem-solving
 
 ---
 
@@ -55,119 +46,89 @@ I believe in continuous learning, practical experience, and improving my technic
 
 ### Programming Languages
 
-<!-- Add more languages when you have experience with them. -->
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++" />
 </p>
 
-**Current learning:** C and C++ fundamentals.
+**Current level:** Learning C and C++ fundamentals.
 
-### Cyber Security
+### Areas of Interest
 
-- [ ] Network Security
-- [ ] Ethical Hacking
-- [ ] Penetration Testing
-- [ ] Digital Forensics
-- [ ] Information Security
-- [ ] Vulnerability Assessment
+<p>
+  <img src="https://img.shields.io/badge/Cyber%20Security-0B1F33?style=flat-square&logo=shieldsdotio&logoColor=00D9FF" alt="Cyber Security" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-0B1F33?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-0B1F33?style=flat-square&logo= kali&logoColor=white" alt="Penetration Testing" />
+</p>
 
-<!-- Mark skills as completed only when you have relevant experience. -->
-
-### Tools & Technologies
-
-<!-- Add tools you have actually used. -->
-
-`[Add your tools here]`
-
-Examples: Linux, Git, GitHub, Wireshark, Kali Linux.
+*These are areas I am interested in exploring, not a claim of professional experience or certification.*
 
 ---
 
 ## 🔬 Research Interests
 
-My academic interests include exploring how technology and structured learning approaches can improve problem-solving abilities.
+I'm interested in developing knowledge in:
 
-Areas of interest:
-
-- Cybersecurity and information protection.
-- Network and system security.
-- Problem-solving and analytical thinking.
-- Technology-assisted learning.
-- Visual and verbal learning approaches.
-- Understanding students' cognitive challenges when solving complex problems.
-
-### Academic Research Exposure
-
-**BOOST – Visual and Verbal Stimulation, Scaffolding to Enhance Coordinate Geometry Problem-Solving Ability**
-
-An academic research topic I explored involving the use of visual and verbal stimulation to support students in solving coordinate geometry problems.
-
-The study examined different approaches to helping students understand questions, select appropriate formulas, plan strategies, and solve mathematical problems.
+- Cybersecurity principles and information protection
+- Ethical hacking and responsible security testing
+- Penetration testing methodologies
+- Understanding system and network vulnerabilities
+- Secure programming and problem-solving
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace these examples with your actual GitHub projects. -->
+> Add your own repositories here as you complete projects. The entries below are placeholders.
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🔐 Project 01
+### 🔐 Project 01 — [Project Name]
 
-**[Your Cyber Security Project Name]**
+Briefly describe a cybersecurity or security-learning project, its purpose, and what you learned.
 
-A project focused on exploring cybersecurity concepts and practical technical applications.
+**Technologies:** `[Add tools / languages]`
 
-**Technologies:** `[Add technologies]`
+[View repository](https://github.com/sedzx67/REPLACE_WITH_REPOSITORY)
 
-[View Project →](YOUR_PROJECT_LINK)
+    </td>
+    <td width="50%" valign="top">
 
-</td>
-<td width="50%">
+### 💻 Project 02 — [Project Name]
 
-### 💻 Project 02
+Briefly describe a C or C++ program, including the problem it solves and key features.
 
-**[Your Programming Project Name]**
+**Technologies:** `C / C++`
 
-A programming project demonstrating your problem-solving and software development skills.
+[View repository](https://github.com/sedzx67/REPLACE_WITH_REPOSITORY)
 
-**Technologies:** `[Add technologies]`
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-[View Project →](YOUR_PROJECT_LINK)
+### 🌐 Project 03 — [Project Name]
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Add a networking, Linux, or system-related project when available.
 
-### 🌐 Project 03
+**Technologies:** `[Add tools / languages]`
 
-**[Your Networking Project Name]**
+[View repository](https://github.com/sedzx67/REPLACE_WITH_REPOSITORY)
 
-Describe your networking or system-related project here.
+    </td>
+    <td width="50%" valign="top">
 
-**Technologies:** `[Add technologies]`
+### 📚 Project 04 — [Academic Project Name]
 
-[View Project →](YOUR_PROJECT_LINK)
+Describe an academic assignment, research activity, or technical project.
 
-</td>
-<td width="50%">
+**Technologies:** `[Add tools / languages]`
 
-### 📚 Project 04
+[View repository](https://github.com/sedzx67/REPLACE_WITH_REPOSITORY)
 
-**[Your Academic Project Name]**
-
-Describe an academic assignment, research project, or technical achievement.
-
-**Technologies:** `[Add technologies]`
-
-[View Project →](YOUR_PROJECT_LINK)
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -176,23 +137,16 @@ Describe an academic assignment, research project, or technical achievement.
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME with your GitHub username -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sedzx67&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedzx67&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<br /><br />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sedzx67&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<br/><br/>
+<br /><br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sedzx67&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -200,53 +154,47 @@ Describe an academic assignment, research project, or technical achievement.
 
 ## 🏆 Achievements & Certifications
 
-<!-- Add only verified achievements and completed certifications. -->
+Add verified achievements here as you earn them.
 
-- 🏅 **Certification:** [Add certification name]
-- 🎓 **Academic Achievement:** [Add achievement]
-- 💻 **Programming Achievement:** [Add achievement]
-- 🔐 **Cyber Security Achievement:** [Add achievement]
-- 🌟 **Other Recognition:** [Add recognition]
+- 🏅 **Certification:** `[Certification name — issuing organization — year]`
+- 🎓 **Academic achievement:** `[Achievement and year]`
+- 💻 **Technical achievement:** `[Competition, completed project, or milestone]`
+- 🔐 **Cybersecurity achievement:** `[CTF, training, or certification]`
 
 ---
 
 ## 🎯 Career Goals
 
-My goal is to continuously improve my technical knowledge and practical abilities in the field of Cyber Security.
+My goal is to grow into a capable cybersecurity professional by strengthening my programming knowledge, developing practical security skills, and learning to assess systems responsibly.
 
 I aim to:
 
-- Develop strong programming and problem-solving skills.
-- Gain practical experience in cybersecurity.
-- Understand network and system security.
-- Explore ethical hacking and penetration testing.
-- Build meaningful technical projects.
-- Contribute to the technology and cybersecurity community.
+- Build a strong foundation in programming and computer systems.
+- Develop practical knowledge of cybersecurity.
+- Learn ethical hacking and penetration testing in authorized environments.
+- Create projects that demonstrate my learning and technical progress.
+- Keep learning and contribute positively to the cybersecurity community.
 
 ---
 
 ## 🤝 Connect With Me
 
-I'm always interested in connecting with fellow students, developers, and technology enthusiasts.
-
 <div align="center">
 
 <a href="https://github.com/sedzx67">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-sedzx67-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-
-<a href="https://www.linkedin.com/in/aqil-alhay-ba51b5383?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aqil-alhay-ba51b5383/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aqil%20Alhay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
-
 <a href="mailto:qilozsem@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-qilozsem%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
 </a>
 
-<br/><br/>
+<br /><br />
 
-### 💬 Let's Learn, Build & Secure the Future!
+### Thanks for visiting my profile! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D9FF&height=120&section=footer" width="100%"/>
+*Always learning. Always improving.*
 
 </div>
