@@ -10,7 +10,7 @@
 
 <!-- Profile Photo: Upload your photo to this repository as profile-photo.jpg -->
 
-<img src="./profile-photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Aqil Alhay"/>
+<img src="./IMG-20261123-WA0012.jpg" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Aqil Alhay"/>
 
 # Hi, I'm Muhammad Aqil Alhay 👋
 
@@ -58,7 +58,7 @@ I believe in continuous learning, practical experience, and improving my technic
 <!-- Add more languages when you have experience with them. -->
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" alt="Java and Pyhton and C++"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++"/>
 </p>
 
 **Current learning:** C and C++ fundamentals.
