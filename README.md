@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./profile-photo.jpg" width="150" alt="Muhammad Akiq Al-Hai" />
+<img src="./profile-photo.jpg" width="150" alt="Muhammad Aqil Alhay" />
 
-# Muhammad Akiq Al-Hai
+# Muhammad Aqil Alhay
 
 ### Cyber Security Student | Aspiring Cyber Security Professional
 
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muhammad Akiq Al-Hai**, a Cyber Security student at **Universiti Teknologi Malaysia (UTM), Skudai**.
+Hi! I'm **Muhammad Aqil Alhay**, a Cyber Security student at **Universiti Teknologi Malaysia (UTM), Skudai**.
 
 I'm building my technical foundations through programming and exploring the field of cybersecurity. I'm especially interested in understanding how systems can be protected, how vulnerabilities are identified, and how security knowledge can be applied responsibly.
 
