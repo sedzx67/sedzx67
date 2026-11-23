@@ -235,7 +235,7 @@ I'm always interested in connecting with fellow students, developers, and techno
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/aqil-alhay-ba51b5383?utm_source=share_via&utm_content=profile&utm_medium=member_ios]">
+<a href="https://www.linkedin.com/in/aqil-alhay-ba51b5383?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
