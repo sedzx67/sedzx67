@@ -4,10 +4,10 @@
 - 👯 I’m looking to collaborate on INCHEON as their cybersecurity team
 - 🤔 I’m looking for help with 
 - 💬 My skill
-     -Computer Languange
+     - Computer Languange
       •C++
       •Phyton
       •Java
-     -Canva
-     -AI
+     - Canva
+     - AI
 - 📫 How to reach me: qilozsem@gmail.com
