@@ -5,9 +5,9 @@
 - 🤔 I’m looking for help with 
 - 💬 My skill
      - Computer Languange
-      •C++
-      •Phyton
-      •Java
+      • C++
+      • Phyton
+      • Java
      - Canva
      - AI
 - 📫 How to reach me: qilozsem@gmail.com
