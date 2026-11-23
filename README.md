@@ -1,16 +1,16 @@
 
 <!--
   GitHub Profile README
-  Name: Muhammad Akiq Al-Hai
+  Name: Muhammad Aqil Alhay
   Theme: Midnight Blue / Cyan
-  Replace all YOUR_USERNAME and placeholder values.
+  Replace all sedzx67 and placeholder values.
 -->
 
 <div align="center">
 
 <!-- Profile Photo: Upload your photo to this repository as profile-photo.jpg -->
 
-<img src="./profile-photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Akiq Al-Hai"/>
+<img src="./profile-photo.jpg" width="150" height="150" style="border-radius: 50%;" alt="Muhammad Aqil Alhay"/>
 
 # Hi, I'm Muhammad Aqil Alhay 👋
 
@@ -58,7 +58,7 @@ I believe in continuous learning, practical experience, and improving my technic
 <!-- Add more languages when you have experience with them. -->
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="Java and Pyhton and C++"/>
 </p>
 
 **Current learning:** C and C++ fundamentals.
