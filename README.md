@@ -9,5 +9,5 @@
       •Phyton
       •Java
      -Canva
--AI
+     -AI
 - 📫 How to reach me: qilozsem@gmail.com
